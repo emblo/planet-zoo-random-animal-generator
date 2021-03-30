@@ -108,6 +108,17 @@ const antarctica_animals = [
     "King Penguin"
 ]
 
+// Array for East Asian animals
+const ea_animals = [
+    "Clouded Leopard",
+    "Sun Bear",
+    "Proboscis Monkey",
+    "Ussuri Dhole",
+    "Malayan Tapir",
+    "North Sulawesi Babirusa",
+    "Binturong"
+]
+
 // Array for exhibit animals
 const exhibit_animals = [
     "Yellow Anaconda",
@@ -135,11 +146,12 @@ const exhibit_animals = [
     "Goliath Frog",
     "Puff Adder",
     "Giant Forest Scorpion",
-    "Diamondback Terrapin"
+    "Diamondback Terrapin",
+    "Giant Leaf Insect"
 ];
 
 // Array for all animals
-const all_animals = african_animals.concat(asian_animals, european_animals, na_animals, sa_animals, oceania_animals, antarctica_animals);
+const all_animals = african_animals.concat(asian_animals, european_animals, na_animals, sa_animals, oceania_animals, antarctica_animals, ea_animals);
 
 // Random habitat animal
 function randomHabitatAnimal () {
@@ -193,4 +205,10 @@ function randomOceaniaAnimal () {
 function randomAntarcticaAnimal() {
     const random_antarctica_animal = antarctica_animals[Math.floor(Math.random() * antarctica_animals.length)];
     document.getElementById("result").value=random_antarctica_animal;
+}
+
+// Random East Asian animal
+function randomEAAnimal(){
+    const random_ea_animal = ea_animals[Math.floor(Math.random() * ea_animals.length)];
+    document.getElementById("result").value=random_ea_animal;
 }
