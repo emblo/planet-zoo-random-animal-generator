@@ -48,7 +48,7 @@ table {
 }
 
 /*****************************************************************************/
-@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+
 
 body, html {
     margin: 0; 
@@ -75,7 +75,7 @@ header {
 }
 
 h1 {
-    font-family: 'Oswald', sans-serif;
+    font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
     font-size: 38px;
     text-align: center;
     color: #222222;
@@ -87,7 +87,7 @@ h1 {
     margin: 0 auto;
     text-align: center;
     padding: 20px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
     font-size: 18px;
     margin-bottom: 20px;
     width: 500px;
@@ -109,6 +109,7 @@ h1 {
     border:0;
     margin:1em;
     outline: none;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
 }
 
 .btn:hover {
@@ -120,8 +121,8 @@ label {
     margin: 0 auto;
     text-align: center;
     font-size: 1.5em;
-    padding-bottom: 10px;
-    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 35px;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
     color: #222222;
 }
 
@@ -130,7 +131,8 @@ footer p {
     color: #222222;
     text-align: center;
     padding: 10px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    line-height: 1.2;
 }
 
 a {
@@ -150,7 +152,16 @@ footer {
     background-color: #6b9c6b;
 }
 
+/*FOR MOBILE PHONES*/
 @media only screen and (max-width: 500px) {
+    body, html {
+        background-image: none;
+    }
+    header {
+        background-color: #9ace9a;
+        padding: 40px;
+        margin-bottom: 0px;
+    }
     .container {
         display: flex;
         align-items: center;
@@ -158,5 +169,10 @@ footer {
         text-align: center;
         flex-direction: column;
         padding: 80px;
+        border-left: none;
+        border-right: none;
+    }
+    .buttons {
+        padding-bottom: 80px;
     }
 }
