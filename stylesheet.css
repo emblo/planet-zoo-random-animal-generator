@@ -49,6 +49,11 @@ table {
 
 /*****************************************************************************/
 
+/*PLANET ZOO FONT - WWW.FFONTS.NET*/
+@font-face {
+    font-family: 'OPTIEagle-Bold';
+    src: url(OPTIEagle-Bold.otf);
+}
 
 body, html {
     margin: 0; 
@@ -75,7 +80,7 @@ header {
 }
 
 h1 {
-    font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-family:'OPTIEagle-Bold';
     font-size: 38px;
     text-align: center;
     color: #222222;
@@ -168,7 +173,7 @@ footer {
         justify-content: center;
         text-align: center;
         flex-direction: column;
-        padding: 80px;
+        padding: 70px;
         border-left: none;
         border-right: none;
     }
