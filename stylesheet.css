@@ -53,6 +53,7 @@ table {
 @font-face {
     font-family: 'OPTIEagle-Bold';
     src: url(OPTIEagle-Bold.otf);
+    font-display: swap;
 }
 
 body, html {
