@@ -105,6 +105,10 @@ h1 {
     text-align: center;
 }
 
+button:hover {
+    cursor: pointer;
+}
+
 .btn {
     padding:0.6em 1em;
     border-radius: 8px;
