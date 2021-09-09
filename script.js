@@ -1,3 +1,9 @@
+//Current year for footer
+window.onload = function() {
+    let date = new Date().getFullYear();
+    document.getElementById("year").innerHTML = date;
+}
+
 // Array for African animals
 const african_animals = [
     "Aardvark", 
@@ -207,4 +213,3 @@ function randomAntarcticaAnimal() {
     const random_antarctica_animal = antarctica_animals[Math.floor(Math.random() * antarctica_animals.length)];
     document.getElementById("result").value=random_antarctica_animal;
 }
-
