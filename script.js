@@ -163,53 +163,53 @@ const all_animals = african_animals.concat(asian_animals, european_animals, na_a
 // Random habitat animal
 function randomHabitatAnimal () {
     const random_habitat_animal = all_animals[Math.floor(Math.random() * all_animals.length)];
-    document.getElementById("result").value=random_habitat_animal;
+    document.getElementById("result").innerHTML=random_habitat_animal;
 }
 
 // Random exhibit animal
 function randomExhibitAnimal () {
     const random_exhibit_animal = exhibit_animals[Math.floor(Math.random() * exhibit_animals.length)];
-    document.getElementById("result").value=random_exhibit_animal;
+    document.getElementById("result").innerHTML=random_exhibit_animal;
 }
 
 // Random african animal
 function randomAfricanAnimal () {
     const random_african_animal = african_animals[Math.floor(Math.random() * african_animals.length)];
-    document.getElementById("result").value=random_african_animal;
+    document.getElementById("result").innerHTML=random_african_animal;
 }
 
 // Random asian animal
 function randomAsianAnimal () {
     const random_asian_animal = asian_animals[Math.floor(Math.random() * asian_animals.length)];
-    document.getElementById("result").value=random_asian_animal;
+    document.getElementById("result").innerHTML=random_asian_animal;
 }
 
 // Random european animal
 function randomEuropeanAnimal () {
     const random_european_animal = european_animals[Math.floor(Math.random() * european_animals.length)];
-    document.getElementById("result").value=random_european_animal;
+    document.getElementById("result").innerHTML=random_european_animal;
 }
 
 // Random NA animal
 function randomNaAnimal () {
     const random_na_animal = na_animals[Math.floor(Math.random() * na_animals.length)];
-    document.getElementById("result").value=random_na_animal;
+    document.getElementById("result").innerHTML=random_na_animal;
 }
 
 // Random SA animal
 function randomSaAnimal () {
     const random_sa_animal = sa_animals[Math.floor(Math.random() * sa_animals.length)];
-    document.getElementById("result").value=random_sa_animal;
+    document.getElementById("result").innerHTML=random_sa_animal;
 }
 
 // Random Oce animal
 function randomOceaniaAnimal () {
     const random_oceania_animal = oceania_animals[Math.floor(Math.random() * oceania_animals.length)];
-    document.getElementById("result").value=random_oceania_animal;
+    document.getElementById("result").innerHTML=random_oceania_animal;
 }
 
 // Random Antarctica animal
 function randomAntarcticaAnimal() {
     const random_antarctica_animal = antarctica_animals[Math.floor(Math.random() * antarctica_animals.length)];
-    document.getElementById("result").value=random_antarctica_animal;
+    document.getElementById("result").innerHTML=random_antarctica_animal;
 }
