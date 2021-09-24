@@ -157,6 +157,193 @@ const exhibit_animals = [
     "Sacred Scarab Beetle"
 ];
 
+//Array for Aquatic animals
+const aquatic_animals = [
+    "African Penguin",
+    "Cuvier's Dwarf Caiman",
+    "Gharial",
+    "Giant Otter",
+    "Greater Flamingo",
+    "Grey Seal",
+    "Hippopotamus",
+    "King Penguin",
+    "Malayan Tapir",
+    "Polar Bear",
+    "Proboscis Monkey",
+    "Pygmy Hippo",
+    "Saltwater Crocodile"
+];
+
+//Array for Desert animals
+const desert_animals = [
+    "African Elephant",
+    "African Penguin",
+    "African Wild Dog",
+    "Bactrian Camel",
+    "Cheetah",
+    "Common Ostrich",
+    "Dingo",
+    "Fennec Fox",
+    "Gemsbok",
+    "Meerkat",
+    "Red Kangaroo",
+    "Springbok"
+];
+
+//Array for Grassland animals
+const grassland_animals = [
+    "Aardvark",
+    "African Buffalo",
+    "African Elephant",
+    "African Wild Dog",
+    "American Bison",
+    "North Sulawesi Babirusa",
+    "Baird's Tapir",
+    "Bengal Tiger",
+    "Black Wildebeest",
+    "Cheetah",
+    "Common Ostrich",
+    "Common Warthog",
+    "Cuvier's Dwarf Caiman",
+    "Dhole",
+    "Dingo",
+    "Giant Anteater",
+    "Giant Otter",
+    "Greater Flamingo",
+    "Hippopotamus",
+    "Indian Elephant",
+    "Indian Peafowl",
+    "Indian Rhinoceros",
+    "Jaguar",
+    "Komodo Dragon",
+    "Llama",
+    "Meerkat",
+    "Nile Monitor",
+    "Nyala",
+    "Plains Zebra",
+    "Pronghorn Antelope",
+    "Red Kangaroo",
+    "Reticulated Giraffe",
+    "Sable Antelope",
+    "Southern White Rhinoceros",
+    "Spotted Hyena",
+    "Springbok",
+    "Sun Bear",
+    "Thomson's Gazelle",
+    "West African Lion"
+];
+
+//Array for Taiga animals
+const taiga_animals = [
+    "Arctic Wolf",
+    "Dall Sheep",
+    "Dhole",
+    "Formosan Black Bear",
+    "Giant Panda",
+    "Grizzly Bear",
+    "Himalayan Brown Bear",
+    "Jacuzzi bois",
+    "Llama",
+    "Polar Bear",
+    "Pronghorn Antelope",
+    "Red Panda",
+    "Reindeer",
+    "Siberian Tiger",
+    "Snow Leopard",
+    "Timber Wolf"
+];
+
+//Array for Temperate animals
+const temperate_animals = [
+    "Bactrian Camel",
+    "Baird's Tapir",
+    "Bengal Tiger",
+    "Binturong",
+    "Chinese Pangolin",
+    "Clouded Leopard",
+    "Colombian White-Faced Capuchin",
+    "Cuvier's Dwarf Caiman",
+    "Dhole",
+    "Formosan Black Bear",
+    "Gharial",
+    "Giant Panda",
+    "Greater Flamingo",
+    "Grey Seal",
+    "Grizzly Bear",
+    "Indian Elephant",
+    "Indian Peafowl",
+    "Indian Rhinoceros",
+    "Jaguar",
+    "Jacuzzi bois",
+    "Koala",
+    "Llama",
+    "Malayan Tapir",
+    "Pronghorn Antelope",
+    "Red Panda",
+    "Siberian Tiger",
+    "Sun Bear",
+    "Timber Wolf"
+];
+
+//Array for Tropical Animals
+const tropical_animals = [
+    "Aardvark",
+    "African Buffalo",
+    "Aldabra Giant Tortoise",
+    "North Sulawesi Babirusa",
+    "Baird's Tapir",
+    "Bengal Tiger",
+    "Binturong",
+    "Bongo",
+    "Bonobo",
+    "Bornean Orangutan",
+    "Chinese Pangolin",
+    "Clouded Leopard",
+    "Colombian White-Faced Capuchin",
+    "Common Warthog",
+    "Cuvier's Dwarf Caiman",
+    "Dhole",
+    "Formosan Black Bear",
+    "Galapagos Giant Tortoise",
+    "Gharial",
+    "Giant Anteater",
+    "Giant Otter",
+    "Greater Flamingo",
+    "Indian Elephant",
+    "Indian Peafowl",
+    "Jaguar",
+    "Koala",
+    "Komodo Dragon",
+    "Malayan Tapir",
+    "Mandrill",
+    "Nile Monitor",
+    "Nyala",
+    "Okapi",
+    "Proboscis Monkey",
+    "Pygmy Hippo",
+    "Red Ruffed Lemur",
+    "Reticulated Giraffe",
+    "Ring Tailed Lemur",
+    "Saltwater Crocodile",
+    "Southern Cassowary",
+    "Sun Bear",
+    "Western Chimpanzee",
+    "Western Lowland Gorilla"    
+];
+
+//Array for Tundra animals
+const tundra_animals = [
+    "Arctic Wolf",
+    "Dall Sheep",
+    "Grey Seal",
+    "Grizzly Bear",
+    "Himalayan Brown Bear",
+    "King Penguin",
+    "Polar Bear",
+    "Reindeer",
+    "Timber Wolf"
+];
+
 // Array for all animals
 const all_animals = african_animals.concat(asian_animals, european_animals, na_animals, sa_animals, oceania_animals, antarctica_animals);
 
