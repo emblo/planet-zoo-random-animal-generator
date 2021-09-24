@@ -85,7 +85,6 @@ const european_animals = [
 // Array for North American animals
 const na_animals = [
     "Timber Wolf",
-    "Capuchin",
     "Pronghorn Antelope",
     "Grizzly Bear",
     "Dall Sheep",
@@ -93,8 +92,6 @@ const na_animals = [
     "American Bison",
     "Reindeer",
     "Polar Bear",
-    "Giant Anteater",
-    "Jaguar",
     "Grey Seal"
 ];
 
