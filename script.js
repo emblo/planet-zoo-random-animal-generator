@@ -400,3 +400,45 @@ function randomAntarcticaAnimal() {
     const random_antarctica_animal = antarctica_animals[Math.floor(Math.random() * antarctica_animals.length)];
     document.getElementById("result").innerHTML=random_antarctica_animal;
 }
+
+//Random Aquatic animal
+function randomAquaticAnimal() {
+    const random_aquatic_animal = aquatic_animals[Math.floor(Math.random() * aquatic_animals.length)];
+    document.getElementById("result").innerHTML=random_aquatic_animal;
+}
+
+//Random Desert animal
+function randomDesertAnimal() {
+    const random_desert_animal = desert_animals[Math.floor(Math.random() * desert_animals.length)];
+    document.getElementById("result").innerHTML=random_desert_animal;
+}
+
+//Random Grassland animal
+function randomGrasslandAnimal() {
+    const random_grassland_animal = grassland_animals[Math.floor(Math.random() * grassland_animals.length)];
+    document.getElementById("result").innerHTML=random_grassland_animal;
+}
+
+//Random Taiga animal
+function randomTaigaAnimal() {
+    const random_taiga_animal = taiga_animals[Math.floor(Math.random() * taiga_animals.length)];
+    document.getElementById("result").innerHTML=random_taiga_animal;
+}
+
+//Random Temperate animal
+function randomTemperateAnimal() {
+    const random_temperate_animal = temperate_animals[Math.floor(Math.random() * temperate_animals.length)];
+    document.getElementById("result").innerHTML=random_temperate_animal;
+}
+
+//Random Tropical animal
+function randomTropicalAnimal() {
+    const random_tropical_animal = tropical_animals[Math.floor(Math.random() * tropical_animals.length)];
+    document.getElementById("result").innerHTML=random_tropical_animal;
+}
+
+//Random Tundra animal
+function randomTundraAnimal() {
+    const random_tundra_animal = tundra_animals[Math.floor(Math.random() * tundra_animals.length)];
+    document.getElementById("result").innerHTML=random_tundra_animal;
+}
