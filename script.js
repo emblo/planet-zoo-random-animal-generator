@@ -92,7 +92,11 @@ const na_animals = [
     "American Bison",
     "Reindeer",
     "Polar Bear",
-    "Grey Seal"
+    "Grey Seal",
+    "Cougar",
+    "American Alligator",
+    "Black-tailed Prairie Dog",
+    "Arctic Fox"
 ];
 
 // Array for South American animals
@@ -151,7 +155,8 @@ const exhibit_animals = [
     "Giant Forest Scorpion",
     "Diamondback Terrapin",
     "Giant Leaf Insect",
-    "Sacred Scarab Beetle"
+    "Sacred Scarab Beetle",
+    "American Bullfrog"
 ];
 
 //Array for Aquatic animals
