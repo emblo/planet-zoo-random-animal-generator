@@ -96,7 +96,8 @@ const na_animals = [
     "Cougar",
     "American Alligator",
     "Black-tailed Prairie Dog",
-    "Arctic Fox"
+    "Arctic Fox",
+    "American Beaver"
 ];
 
 // Array for South American animals
