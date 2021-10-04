@@ -70,7 +70,7 @@ body, html {
     width: 60%;
     margin: 0 auto; 
     background-color: #E1E1E1;
-    padding: 100px;
+    padding: 50px;
     border: 2px solid #759b75;
 }
 
@@ -169,6 +169,7 @@ footer {
 @media only screen and (max-width: 500px) {
     body, html {
         background-image: none;
+        background-color: #E1E1E1;
     }
     header {
         background-color: #9ace9a;
@@ -182,8 +183,8 @@ footer {
         text-align: center;
         flex-direction: column;
         padding: 70px;
-        border-left: none;
-        border-right: none;
+        margin-bottom: 20px;
+        border: none;
     }
     .buttons {
         padding-bottom: 10px;
