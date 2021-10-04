@@ -70,7 +70,9 @@ const asian_animals = [
     "Ussuri Dhole",
     "Malayan Tapir",
     "North Sulawesi Babirusa",
-    "Binturong"
+    "Binturong",
+    "Arctic Fox",
+    "Moose"
 ];
 
 // Array for European animals
@@ -79,7 +81,9 @@ const european_animals = [
     "Timber Wolf",
     "Reindeer",
     "Polar Bear",
-    "Grey Seal"
+    "Grey Seal",
+    "Arctic Fox",
+    "Moose"
 ];
 
 // Array for North American animals
@@ -95,9 +99,11 @@ const na_animals = [
     "Grey Seal",
     "Cougar",
     "American Alligator",
-    "Black-tailed Prairie Dog",
+    "Black-Tailed Prairie Dog",
     "Arctic Fox",
-    "American Beaver"
+    "North American Beaver",
+    "Moose",
+    "California Sea Lion"
 ];
 
 // Array for South American animals
@@ -110,7 +116,8 @@ const sa_animals = [
     "Jaguar",
     "Cuvier's Dwarf Caiman",
     "Giant Otter",
-    "King Penguin"
+    "King Penguin",
+    "Cougar"
 ];
 
 // Array for Oceania animals
@@ -174,7 +181,9 @@ const aquatic_animals = [
     "Polar Bear",
     "Proboscis Monkey",
     "Pygmy Hippo",
-    "Saltwater Crocodile"
+    "Saltwater Crocodile",
+    "American Alligator",
+    "California Sea Lion"
 ];
 
 //Array for Desert animals
@@ -190,7 +199,9 @@ const desert_animals = [
     "Gemsbok",
     "Meerkat",
     "Red Kangaroo",
-    "Springbok"
+    "Springbok",
+    "Cougar",
+    "Black-Tailed Prairie Dog"
 ];
 
 //Array for Grassland animals
@@ -233,7 +244,10 @@ const grassland_animals = [
     "Springbok",
     "Sun Bear",
     "Thomson's Gazelle",
-    "West African Lion"
+    "West African Lion",
+    "North American Beaver",
+    "Cougar",
+    "Black-Tailed Prairie Dog"
 ];
 
 //Array for Taiga animals
@@ -253,7 +267,11 @@ const taiga_animals = [
     "Reindeer",
     "Siberian Tiger",
     "Snow Leopard",
-    "Timber Wolf"
+    "Timber Wolf",
+    "North American Beaver",
+    "Cougar",
+    "Arctic Fox",
+    "Moose"
 ];
 
 //Array for Temperate animals
@@ -285,7 +303,11 @@ const temperate_animals = [
     "Red Panda",
     "Siberian Tiger",
     "Sun Bear",
-    "Timber Wolf"
+    "Timber Wolf",
+    "North American Beaver",
+    "Cougar",
+    "American Alligator",
+    "California Sea Lion"
 ];
 
 //Array for Tropical Animals
@@ -331,7 +353,8 @@ const tropical_animals = [
     "Southern Cassowary",
     "Sun Bear",
     "Western Chimpanzee",
-    "Western Lowland Gorilla"    
+    "Western Lowland Gorilla",
+    "Cougar"    
 ];
 
 //Array for Tundra animals
@@ -344,7 +367,8 @@ const tundra_animals = [
     "King Penguin",
     "Polar Bear",
     "Reindeer",
-    "Timber Wolf"
+    "Timber Wolf",
+    "Arctic Fox"
 ];
 
 // Array for all animals
