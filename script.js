@@ -120,6 +120,13 @@ const sa_animals = [
     "Cougar"
 ];
 
+//Array for Central American animals
+const ca_animals = [
+    "Baird's Tapir",
+    "California Sea Lion",
+    "Cougar"
+];
+
 // Array for Oceania animals
 const oceania_animals = [
     "Saltwater Crocodile",
