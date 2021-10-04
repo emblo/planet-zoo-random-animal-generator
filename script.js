@@ -423,6 +423,12 @@ function randomSaAnimal () {
     document.getElementById("result").innerHTML=random_sa_animal;
 }
 
+//Random CA animal
+function randomCaAnimal() {
+    const random_ca_animal = ca_animals[Math.floor(Math.random() * ca_animals.length)];
+    document.getElementById("result").innerHTML=random_ca_animal;
+}
+
 // Random Oce animal
 function randomOceaniaAnimal () {
     const random_oceania_animal = oceania_animals[Math.floor(Math.random() * oceania_animals.length)];
