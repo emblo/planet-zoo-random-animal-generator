@@ -39,7 +39,8 @@ const african_animals = [
     "Meerkat",
     "Southern White Rhinoceros",
     "African Penguin",
-    "Fennec Fox"
+    "Fennec Fox",
+    "Black-And-White Ruffed Lemur"
 ];
 
 // Array for asian animals
@@ -361,7 +362,8 @@ const tropical_animals = [
     "Sun Bear",
     "Western Chimpanzee",
     "Western Lowland Gorilla",
-    "Cougar"    
+    "Cougar",
+    "Black-And-White Ruffed Lemur"    
 ];
 
 //Array for Tundra animals
