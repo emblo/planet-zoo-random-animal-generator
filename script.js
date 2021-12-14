@@ -73,7 +73,8 @@ const asian_animals = [
     "North Sulawesi Babirusa",
     "Binturong",
     "Arctic Fox",
-    "Moose"
+    "Moose",
+    "Eurasian Lynx"
 ];
 
 // Array for European animals
@@ -84,7 +85,11 @@ const european_animals = [
     "Polar Bear",
     "Grey Seal",
     "Arctic Fox",
-    "Moose"
+    "Moose",
+    "Alpine Ibex",
+    "Eurasian Lynx",
+    "European Badger",
+    "European Fallow Deer"
 ];
 
 // Array for North American animals
@@ -172,7 +177,8 @@ const exhibit_animals = [
     "Diamondback Terrapin",
     "Giant Leaf Insect",
     "Sacred Scarab Beetle",
-    "American Bullfrog"
+    "American Bullfrog",
+    "Fire Salamander"
 ];
 
 //Array for Aquatic animals
@@ -255,7 +261,10 @@ const grassland_animals = [
     "West African Lion",
     "North American Beaver",
     "Cougar",
-    "Black-Tailed Prairie Dog"
+    "Black-Tailed Prairie Dog",
+    "Eurasian Lynx",
+    "European Badger",
+    "European Fallow Deer"
 ];
 
 //Array for Taiga animals
@@ -279,7 +288,10 @@ const taiga_animals = [
     "North American Beaver",
     "Cougar",
     "Arctic Fox",
-    "Moose"
+    "Moose",
+    "Alpine Ibex",
+    "Eurasian Lynx",
+    "European Badger"
 ];
 
 //Array for Temperate animals
@@ -315,7 +327,10 @@ const temperate_animals = [
     "North American Beaver",
     "Cougar",
     "American Alligator",
-    "California Sea Lion"
+    "California Sea Lion",
+    "Eurasian Lynx",
+    "European Badger",
+    "European Fallow Deer"
 ];
 
 //Array for Tropical Animals
@@ -377,7 +392,8 @@ const tundra_animals = [
     "Polar Bear",
     "Reindeer",
     "Timber Wolf",
-    "Arctic Fox"
+    "Arctic Fox",
+    "Eurasian Lynx"
 ];
 
 // Array for all animals
