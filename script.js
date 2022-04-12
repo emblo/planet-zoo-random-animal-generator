@@ -40,10 +40,11 @@ const african_animals = [
     "Southern White Rhinoceros",
     "African Penguin",
     "Fennec Fox",
-    "Black-And-White Ruffed Lemur"
+    "Black-And-White Ruffed Lemur",
+    "Nile Lechwe"
 ];
 
-// Array for asian animals
+// Array for Asian animals
 const asian_animals = [
     "Greater Flamingo",
     "Bactrian Camel",
@@ -74,7 +75,10 @@ const asian_animals = [
     "Binturong",
     "Arctic Fox",
     "Moose",
-    "Eurasian Lynx"
+    "Eurasian Lynx",
+    "Asian Small-Clawed Otter",
+    "Wild Water Buffalo",
+    "Red-Crowned Crane"
 ];
 
 // Array for European animals
@@ -123,7 +127,9 @@ const sa_animals = [
     "Cuvier's Dwarf Caiman",
     "Giant Otter",
     "King Penguin",
-    "Cougar"
+    "Cougar",
+    "Capybara",
+    "Spectacled Caiman"
 ];
 
 //Array for Central American animals
@@ -140,6 +146,7 @@ const oceania_animals = [
     "Red Kangaroo",
     "Koala",
     "Dingo",
+    "Platypus"
 ];
 
 // Array for Antarctica animals
@@ -147,7 +154,7 @@ const antarctica_animals = [
     "King Penguin"
 ]
 
-// Array for exhibit animals
+// Array for Exhibit animals
 const exhibit_animals = [
     "Yellow Anaconda",
     "Titan Beetle",
@@ -178,7 +185,8 @@ const exhibit_animals = [
     "Giant Leaf Insect",
     "Sacred Scarab Beetle",
     "American Bullfrog",
-    "Fire Salamander"
+    "Fire Salamander",
+    "Danube Crested Newt"
 ];
 
 //Array for Aquatic animals
@@ -197,7 +205,14 @@ const aquatic_animals = [
     "Pygmy Hippo",
     "Saltwater Crocodile",
     "American Alligator",
-    "California Sea Lion"
+    "California Sea Lion",
+    "Capybara",
+    "Platypus",
+    "Asian Small-Clawed Otter",
+    "Spectacled Caiman",
+    "Wild Water Buffalo",
+    "Red-Crowned Crane",
+    "Nile Lechwe"
 ];
 
 //Array for Desert animals
@@ -264,7 +279,13 @@ const grassland_animals = [
     "Black-Tailed Prairie Dog",
     "Eurasian Lynx",
     "European Badger",
-    "European Fallow Deer"
+    "European Fallow Deer",
+    "Capybara",
+    "Platypus",
+    "Asian Small-Clawed Otter",
+    "Spectacled Caiman",
+    "Wild Water Buffalo",
+    "Nile Lechwe"
 ];
 
 //Array for Taiga animals
@@ -291,7 +312,8 @@ const taiga_animals = [
     "Moose",
     "Alpine Ibex",
     "Eurasian Lynx",
-    "European Badger"
+    "European Badger",
+    "Red-Crowned Crane"
 ];
 
 //Array for Temperate animals
@@ -330,7 +352,9 @@ const temperate_animals = [
     "California Sea Lion",
     "Eurasian Lynx",
     "European Badger",
-    "European Fallow Deer"
+    "European Fallow Deer",
+    "Platypus",
+    "Red-Crowned Crane"
 ];
 
 //Array for Tropical Animals
@@ -378,7 +402,12 @@ const tropical_animals = [
     "Western Chimpanzee",
     "Western Lowland Gorilla",
     "Cougar",
-    "Black-And-White Ruffed Lemur"    
+    "Black-And-White Ruffed Lemur",
+    "Capybara",
+    "Platypus",
+    "Asian Small-Clawed Otter",
+    "Spectacled Caiman",
+    "Wild Water Buffalo"    
 ];
 
 //Array for Tundra animals
@@ -393,7 +422,8 @@ const tundra_animals = [
     "Reindeer",
     "Timber Wolf",
     "Arctic Fox",
-    "Eurasian Lynx"
+    "Eurasian Lynx",
+    "Red-Crowned Crane"
 ];
 
 // Array for all animals
