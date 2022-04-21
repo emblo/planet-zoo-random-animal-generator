@@ -212,7 +212,8 @@ const aquatic_animals = [
     "Spectacled Caiman",
     "Wild Water Buffalo",
     "Red-Crowned Crane",
-    "Nile Lechwe"
+    "Nile Lechwe",
+    "Moose"
 ];
 
 //Array for Desert animals
