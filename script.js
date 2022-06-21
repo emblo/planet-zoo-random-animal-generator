@@ -41,7 +41,8 @@ const african_animals = [
     "African Penguin",
     "Fennec Fox",
     "Black-And-White Ruffed Lemur",
-    "Nile Lechwe"
+    "Nile Lechwe",
+    "Scimitar-Horned Oryx"
 ];
 
 // Array for Asian animals
@@ -78,7 +79,10 @@ const asian_animals = [
     "Eurasian Lynx",
     "Asian Small-Clawed Otter",
     "Wild Water Buffalo",
-    "Red-Crowned Crane"
+    "Red-Crowned Crane",
+    "Przewalski's Horse",
+    "Amur Leopard",
+    "Siamang"
 ];
 
 // Array for European animals
@@ -186,7 +190,8 @@ const exhibit_animals = [
     "Sacred Scarab Beetle",
     "American Bullfrog",
     "Fire Salamander",
-    "Danube Crested Newt"
+    "Danube Crested Newt",
+    "Axolotl"
 ];
 
 //Array for Aquatic animals
@@ -231,7 +236,8 @@ const desert_animals = [
     "Red Kangaroo",
     "Springbok",
     "Cougar",
-    "Black-Tailed Prairie Dog"
+    "Black-Tailed Prairie Dog",
+    "Scimitar-Horned Oryx"
 ];
 
 //Array for Grassland animals
@@ -286,7 +292,9 @@ const grassland_animals = [
     "Asian Small-Clawed Otter",
     "Spectacled Caiman",
     "Wild Water Buffalo",
-    "Nile Lechwe"
+    "Nile Lechwe",
+    "Przewalski's Horse",
+    "Scimitar-Horned Oryx"
 ];
 
 //Array for Taiga animals
@@ -314,7 +322,8 @@ const taiga_animals = [
     "Alpine Ibex",
     "Eurasian Lynx",
     "European Badger",
-    "Red-Crowned Crane"
+    "Red-Crowned Crane",
+    "Amur Leopard"
 ];
 
 //Array for Temperate animals
@@ -355,7 +364,8 @@ const temperate_animals = [
     "European Badger",
     "European Fallow Deer",
     "Platypus",
-    "Red-Crowned Crane"
+    "Red-Crowned Crane",
+    "Amur Leopard"
 ];
 
 //Array for Tropical Animals
@@ -408,7 +418,8 @@ const tropical_animals = [
     "Platypus",
     "Asian Small-Clawed Otter",
     "Spectacled Caiman",
-    "Wild Water Buffalo"    
+    "Wild Water Buffalo",
+    "Siamang"    
 ];
 
 //Array for Tundra animals
