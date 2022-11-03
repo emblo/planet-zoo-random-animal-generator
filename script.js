@@ -43,7 +43,8 @@ const african_animals = [
     "Black-And-White Ruffed Lemur",
     "Nile Lechwe",
     "Scimitar-Horned Oryx",
-    "Red Fox"
+    "Red Fox",
+    "Red Deer"
 ];
 
 // Array for Asian animals
@@ -84,7 +85,8 @@ const asian_animals = [
     "Przewalski's Horse",
     "Amur Leopard",
     "Siamang",
-    "Red Fox"
+    "Red Fox",
+    "Red Deer"
 ];
 
 // Array for European animals
@@ -100,7 +102,8 @@ const european_animals = [
     "Eurasian Lynx",
     "European Badger",
     "European Fallow Deer",
-    "Red Fox"
+    "Red Fox",
+    "Red Deer"
 ];
 
 // Array for North American animals
@@ -309,7 +312,8 @@ const grassland_animals = [
     "Raccoon",
     "Common Wombat",
     "Red Fox",
-    "Striped Skunk"
+    "Striped Skunk",
+    "Red Deer"
 ];
 
 //Array for Taiga animals
@@ -341,7 +345,8 @@ const taiga_animals = [
     "Amur Leopard",
     "Raccoon",
     "Red Fox",
-    "Striped Skunk"
+    "Striped Skunk",
+    "Red Deer"
 ];
 
 //Array for Temperate animals
@@ -387,7 +392,8 @@ const temperate_animals = [
     "Raccoon",
     "Common Wombat",
     "Red Fox",
-    "Striped Skunk"
+    "Striped Skunk",
+    "Red Deer"
 ];
 
 //Array for Tropical Animals
