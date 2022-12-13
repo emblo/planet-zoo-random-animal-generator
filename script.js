@@ -44,7 +44,10 @@ const african_animals = [
     "Nile Lechwe",
     "Scimitar-Horned Oryx",
     "Red Fox",
-    "Red Deer"
+    "Red Deer",
+    "Caracal",
+    "Striped Hyena",
+    "Blue Wildebeest"
 ];
 
 // Array for Asian animals
@@ -86,7 +89,9 @@ const asian_animals = [
     "Amur Leopard",
     "Siamang",
     "Red Fox",
-    "Red Deer"
+    "Red Deer",
+    "Caracal",
+    "Striped Hyena"
 ];
 
 // Array for European animals
@@ -126,7 +131,8 @@ const na_animals = [
     "California Sea Lion",
     "Raccoon",
     "Red Fox",
-    "Striped Skunk"
+    "Striped Skunk",
+    "Nine-Banded Armadillo"
 ];
 
 // Array for South American animals
@@ -142,7 +148,9 @@ const sa_animals = [
     "King Penguin",
     "Cougar",
     "Capybara",
-    "Spectacled Caiman"
+    "Spectacled Caiman",
+    "Nine-Banded Armadillo",
+    "Maned Wolf"
 ];
 
 //Array for Central American animals
@@ -150,7 +158,8 @@ const ca_animals = [
     "Baird's Tapir",
     "California Sea Lion",
     "Cougar",
-    "Raccoon"
+    "Raccoon",
+    "Nine-Banded Armadillo"
 ];
 
 // Array for Oceania animals
@@ -161,7 +170,9 @@ const oceania_animals = [
     "Koala",
     "Dingo",
     "Platypus",
-    "Common Wombat"
+    "Common Wombat",
+    "Emu",
+    "Red-Necked Wallaby"
 ];
 
 // Array for Antarctica animals
@@ -203,7 +214,12 @@ const exhibit_animals = [
     "Fire Salamander",
     "Danube Crested Newt",
     "Axolotl",
-    "Egyptian Fruit Bat"
+    "Egyptian Fruit Bat",
+    "Menelaus Blue Morpho",
+    "Cloudless Sulphur",
+    "European Peacock",
+    "Old World Swallowtail",
+    "Monarch"
 ];
 
 //Array for Aquatic animals
@@ -251,7 +267,11 @@ const desert_animals = [
     "Cougar",
     "Black-Tailed Prairie Dog",
     "Scimitar-Horned Oryx",
-    "Red Fox"
+    "Red Fox",
+    "Nine-Banded Armadillo",
+    "Emu",
+    "Caracal",
+    "Striped Hyena"
 ];
 
 //Array for Grassland animals
@@ -313,7 +333,14 @@ const grassland_animals = [
     "Common Wombat",
     "Red Fox",
     "Striped Skunk",
-    "Red Deer"
+    "Red Deer",
+    "Nine-Banded Armadillo",
+    "Maned Wolf",
+    "Emu",
+    "Caracal",
+    "Red-Necked Wallaby",
+    "Striped Hyena",
+    "Blue Wildebeest"
 ];
 
 //Array for Taiga animals
@@ -393,7 +420,11 @@ const temperate_animals = [
     "Common Wombat",
     "Red Fox",
     "Striped Skunk",
-    "Red Deer"
+    "Red Deer",
+    "Nine-Banded Armadillo",
+    "Caracal",
+    "Red-Necked Wallaby",
+    "Striped Hyena"
 ];
 
 //Array for Tropical Animals
@@ -448,7 +479,11 @@ const tropical_animals = [
     "Spectacled Caiman",
     "Wild Water Buffalo",
     "Siamang",
-    "Raccoon"    
+    "Raccoon",
+    "Nine-Banded Armadillo",
+    "Maned Wolf",
+    "Emu",
+    "Striped Hyena"    
 ];
 
 //Array for Tundra animals
