@@ -47,7 +47,9 @@ const african_animals = [
     "Red Deer",
     "Caracal",
     "Striped Hyena",
-    "Blue Wildebeest"
+    "Blue Wildebeest",
+    "Fossa",
+    "Red River Hog"
 ];
 
 // Array for Asian animals
@@ -91,7 +93,9 @@ const asian_animals = [
     "Red Fox",
     "Red Deer",
     "Caracal",
-    "Striped Hyena"
+    "Striped Hyena",
+    "Lar Gibbon",
+    "Asian Water Monitor"
 ];
 
 // Array for European animals
@@ -219,7 +223,8 @@ const exhibit_animals = [
     "Cloudless Sulphur",
     "European Peacock",
     "Old World Swallowtail",
-    "Monarch"
+    "Monarch",
+    "Brown-Throated Sloth"
 ];
 
 //Array for Aquatic animals
@@ -247,7 +252,9 @@ const aquatic_animals = [
     "Red-Crowned Crane",
     "Nile Lechwe",
     "Moose",
-    "Raccoon"
+    "Raccoon",
+    "Asian Water Monitor",
+    "Red River Hog"
 ];
 
 //Array for Desert animals
@@ -340,7 +347,9 @@ const grassland_animals = [
     "Caracal",
     "Red-Necked Wallaby",
     "Striped Hyena",
-    "Blue Wildebeest"
+    "Blue Wildebeest",
+    "Asian Water Monitor",
+    "Red River Hog"
 ];
 
 //Array for Taiga animals
@@ -483,7 +492,11 @@ const tropical_animals = [
     "Nine-Banded Armadillo",
     "Maned Wolf",
     "Emu",
-    "Striped Hyena"    
+    "Striped Hyena",
+    "Lar Gibbon",
+    "Fossa",
+    "Asian Water Monitor",
+    "Red River Hog"    
 ];
 
 //Array for Tundra animals
