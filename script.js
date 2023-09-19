@@ -186,7 +186,11 @@ const oceania_animals = [
     "Platypus",
     "Common Wombat",
     "Emu",
-    "Red-Necked Wallaby"
+    "Red-Necked Wallaby",
+    "North Island Brown Kiwi",
+    "Tasmanian Devil",
+    "Little Penguin",
+    "Quokka"
 ];
 
 // Array for Antarctica animals
@@ -235,7 +239,8 @@ const exhibit_animals = [
     "Old World Swallowtail",
     "Monarch",
     "Brown-Throated Sloth",
-    "Desert Horned Viper"
+    "Desert Horned Viper",
+    "Spectacled Flying Fox"
 ];
 
 //Array for Aquatic animals
@@ -265,7 +270,8 @@ const aquatic_animals = [
     "Moose",
     "Raccoon",
     "Asian Water Monitor",
-    "Red River Hog"
+    "Red River Hog",
+    "Little Penguin"
 ];
 
 //Array for Desert animals
@@ -371,7 +377,9 @@ const grassland_animals = [
     "Dromedary Camel",
     "Dama Gazelle",
     "African Crested Porcupine",
-    "Black Rhinoceros"
+    "Black Rhinoceros",
+    "Little Penguin",
+    "Quokka"
 ];
 
 //Array for Taiga animals
@@ -456,7 +464,10 @@ const temperate_animals = [
     "Caracal",
     "Red-Necked Wallaby",
     "Striped Hyena",
-    "Dromedary Camel"
+    "Dromedary Camel",
+    "North Island Brown Kiwi",
+    "Tasmanian Devil",
+    "Little Penguin"
 ];
 
 //Array for Tropical Animals
