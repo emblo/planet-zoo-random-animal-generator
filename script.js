@@ -146,7 +146,8 @@ const na_animals = [
     "Raccoon",
     "Red Fox",
     "Striped Skunk",
-    "Nine-Banded Armadillo"
+    "Nine-Banded Armadillo",
+    "Collared Peccary"
 ];
 
 // Array for South American animals
@@ -164,7 +165,8 @@ const sa_animals = [
     "Capybara",
     "Spectacled Caiman",
     "Nine-Banded Armadillo",
-    "Maned Wolf"
+    "Maned Wolf",
+    "Collared Peccary"
 ];
 
 //Array for Central American animals
@@ -173,7 +175,8 @@ const ca_animals = [
     "California Sea Lion",
     "Cougar",
     "Raccoon",
-    "Nine-Banded Armadillo"
+    "Nine-Banded Armadillo",
+    "Collared Peccary"
 ];
 
 // Array for Oceania animals
@@ -302,7 +305,8 @@ const desert_animals = [
     "African Crested Porcupine",
     "Sand Cat",
     "Black Rhinoceros",
-    "Somali Wild Ass"
+    "Somali Wild Ass",
+    "Collared Peccary"
 ];
 
 //Array for Grassland animals
@@ -379,7 +383,8 @@ const grassland_animals = [
     "African Crested Porcupine",
     "Black Rhinoceros",
     "Little Penguin",
-    "Quokka"
+    "Quokka",
+    "Collared Peccary"
 ];
 
 //Array for Taiga animals
@@ -467,7 +472,8 @@ const temperate_animals = [
     "Dromedary Camel",
     "North Island Brown Kiwi",
     "Tasmanian Devil",
-    "Little Penguin"
+    "Little Penguin",
+    "Collared Peccary"
 ];
 
 //Array for Tropical Animals
@@ -530,7 +536,8 @@ const tropical_animals = [
     "Lar Gibbon",
     "Fossa",
     "Asian Water Monitor",
-    "Red River Hog"    
+    "Red River Hog",
+    "Collared Peccary"    
 ];
 
 //Array for Tundra animals
