@@ -56,7 +56,8 @@ const african_animals = [
     "African Crested Porcupine",
     "Sand Cat",
     "Black Rhinoceros",
-    "Somali Wild Ass"
+    "Somali Wild Ass",
+    "Wild Boar"
 ];
 
 // Array for Asian animals
@@ -104,7 +105,13 @@ const asian_animals = [
     "Lar Gibbon",
     "Asian Water Monitor",
     "Dromedary Camel",
-    "Sand Cat"
+    "Sand Cat",
+    "Sloth Bear",
+    "Wolverine",
+    "Wild Boar",
+    "Saiga",
+    "Mute Swan",
+    "Takin"
 ];
 
 // Array for European animals
@@ -122,7 +129,11 @@ const european_animals = [
     "European Fallow Deer",
     "Red Fox",
     "Red Deer",
-    "African Crested Porcupine"
+    "African Crested Porcupine",
+    "Wisent",
+    "Wolverine",
+    "Wild Boar",
+    "Mute Swan"
 ];
 
 // Array for North American animals
@@ -147,7 +158,8 @@ const na_animals = [
     "Red Fox",
     "Striped Skunk",
     "Nine-Banded Armadillo",
-    "Collared Peccary"
+    "Collared Peccary",
+    "Wolverine"
 ];
 
 // Array for South American animals
@@ -243,7 +255,8 @@ const exhibit_animals = [
     "Monarch",
     "Brown-Throated Sloth",
     "Desert Horned Viper",
-    "Spectacled Flying Fox"
+    "Spectacled Flying Fox",
+    "Hermann's Tortoise"
 ];
 
 //Array for Aquatic animals
@@ -274,7 +287,8 @@ const aquatic_animals = [
     "Raccoon",
     "Asian Water Monitor",
     "Red River Hog",
-    "Little Penguin"
+    "Little Penguin",
+    "Mute Swan"
 ];
 
 //Array for Desert animals
@@ -306,7 +320,9 @@ const desert_animals = [
     "Sand Cat",
     "Black Rhinoceros",
     "Somali Wild Ass",
-    "Collared Peccary"
+    "Collared Peccary",
+    "Wild Boar",
+    "Saiga"
 ];
 
 //Array for Grassland animals
@@ -384,7 +400,12 @@ const grassland_animals = [
     "Black Rhinoceros",
     "Little Penguin",
     "Quokka",
-    "Collared Peccary"
+    "Collared Peccary",
+    "Wisent",
+    "Sloth Bear",
+    "Wild Boar",
+    "Saiga",
+    "Takin"
 ];
 
 //Array for Taiga animals
@@ -417,7 +438,11 @@ const taiga_animals = [
     "Raccoon",
     "Red Fox",
     "Striped Skunk",
-    "Red Deer"
+    "Red Deer",
+    "Wisent",
+    "Wolverine",
+    "Wild Boar",
+    "Takin"
 ];
 
 //Array for Temperate animals
@@ -473,7 +498,12 @@ const temperate_animals = [
     "North Island Brown Kiwi",
     "Tasmanian Devil",
     "Little Penguin",
-    "Collared Peccary"
+    "Collared Peccary",
+    "Wisent",
+    "Sloth Bear",
+    "Wild Boar",
+    "Mute Swan",
+    "Takin"
 ];
 
 //Array for Tropical Animals
@@ -537,7 +567,10 @@ const tropical_animals = [
     "Fossa",
     "Asian Water Monitor",
     "Red River Hog",
-    "Collared Peccary"    
+    "Collared Peccary",
+    "Sloth Bear",
+    "Wild Boar",
+    "Takin"    
 ];
 
 //Array for Tundra animals
@@ -554,7 +587,8 @@ const tundra_animals = [
     "Arctic Fox",
     "Eurasian Lynx",
     "Red-Crowned Crane",
-    "Red Fox"
+    "Red Fox",
+    "Wolverine"
 ];
 
 // Array for all animals
