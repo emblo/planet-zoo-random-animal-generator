@@ -133,7 +133,12 @@ const european_animals = [
     "Wisent",
     "Wolverine",
     "Wild Boar",
-    "Mute Swan"
+    "Mute Swan",
+    "Sussex Chicken",
+    "Highland Cattle",
+    "Alpine Goat",
+    "Hill Radnor Sheep",
+    "Tamworth Pig"
 ];
 
 // Array for North American animals
@@ -159,7 +164,8 @@ const na_animals = [
     "Striped Skunk",
     "Nine-Banded Armadillo",
     "Collared Peccary",
-    "Wolverine"
+    "Wolverine",
+    "American Standard Donkey"
 ];
 
 // Array for South American animals
@@ -178,7 +184,8 @@ const sa_animals = [
     "Spectacled Caiman",
     "Nine-Banded Armadillo",
     "Maned Wolf",
-    "Collared Peccary"
+    "Collared Peccary",
+    "Alpaca"
 ];
 
 //Array for Central American animals
@@ -322,7 +329,9 @@ const desert_animals = [
     "Somali Wild Ass",
     "Collared Peccary",
     "Wild Boar",
-    "Saiga"
+    "Saiga",
+    "Alpine Goat",
+    "American Standard Donkey"
 ];
 
 //Array for Grassland animals
@@ -405,7 +414,13 @@ const grassland_animals = [
     "Sloth Bear",
     "Wild Boar",
     "Saiga",
-    "Takin"
+    "Takin",
+    "Sussex Chicken",
+    "Alpine Goat",
+    "Alpaca",
+    "American Standard Donkey",
+    "Hill Radnor Sheep",
+    "Tamworth Pig"
 ];
 
 //Array for Taiga animals
@@ -442,7 +457,12 @@ const taiga_animals = [
     "Wisent",
     "Wolverine",
     "Wild Boar",
-    "Takin"
+    "Takin",
+    "Sussex Chicken",
+    "Highland Cattle",
+    "Alpine Goat",
+    "Hill Radnor Sheep",
+    "Tamworth Pig"
 ];
 
 //Array for Temperate animals
@@ -503,7 +523,14 @@ const temperate_animals = [
     "Sloth Bear",
     "Wild Boar",
     "Mute Swan",
-    "Takin"
+    "Takin",
+    "Sussex Chicken",
+    "Highland Cattle",
+    "Alpine Goat",
+    "Alpaca",
+    "American Standard Donkey",
+    "Hill Radnor Sheep",
+    "Tamworth Pig"
 ];
 
 //Array for Tropical Animals
@@ -570,7 +597,8 @@ const tropical_animals = [
     "Collared Peccary",
     "Sloth Bear",
     "Wild Boar",
-    "Takin"    
+    "Takin",
+    "Sussex Chicken"    
 ];
 
 //Array for Tundra animals
@@ -588,7 +616,8 @@ const tundra_animals = [
     "Eurasian Lynx",
     "Red-Crowned Crane",
     "Red Fox",
-    "Wolverine"
+    "Wolverine",
+    "Highland Cattle"
 ];
 
 // Array for all animals
