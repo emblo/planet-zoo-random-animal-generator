@@ -57,7 +57,12 @@ const african_animals = [
     "Sand Cat",
     "Black Rhinoceros",
     "Somali Wild Ass",
-    "Wild Boar"
+    "Wild Boar",
+    "Hamadryas Baboon",
+    "African Spurred Tortoise",
+    "Kirk's Dik-Dik",
+    "Coquerel's Sifaka",
+    "African Leopard"
 ];
 
 // Array for Asian animals
@@ -111,7 +116,9 @@ const asian_animals = [
     "Wild Boar",
     "Saiga",
     "Mute Swan",
-    "Takin"
+    "Takin",
+    "Pallas Cat",
+    "Markhor"
 ];
 
 // Array for European animals
@@ -185,7 +192,8 @@ const sa_animals = [
     "Nine-Banded Armadillo",
     "Maned Wolf",
     "Collared Peccary",
-    "Alpaca"
+    "Alpaca",
+    "Spectacled Bear"
 ];
 
 //Array for Central American animals
@@ -331,7 +339,8 @@ const desert_animals = [
     "Wild Boar",
     "Saiga",
     "Alpine Goat",
-    "American Standard Donkey"
+    "American Standard Donkey",
+    "Hamadryas Baboon"
 ];
 
 //Array for Grassland animals
@@ -420,7 +429,12 @@ const grassland_animals = [
     "Alpaca",
     "American Standard Donkey",
     "Hill Radnor Sheep",
-    "Tamworth Pig"
+    "Tamworth Pig",
+    "Hamadryas Baboon",
+    "Spectacled Bear",
+    "African Spurred Tortoise",
+    "Kirk's Dik-Dik",
+    "African Leopard"    
 ];
 
 //Array for Taiga animals
@@ -462,7 +476,9 @@ const taiga_animals = [
     "Highland Cattle",
     "Alpine Goat",
     "Hill Radnor Sheep",
-    "Tamworth Pig"
+    "Tamworth Pig",
+    "Pallas Cat",
+    "Markhor"
 ];
 
 //Array for Temperate animals
@@ -530,7 +546,8 @@ const temperate_animals = [
     "Alpaca",
     "American Standard Donkey",
     "Hill Radnor Sheep",
-    "Tamworth Pig"
+    "Tamworth Pig",
+    "Pallas Cat"
 ];
 
 //Array for Tropical Animals
@@ -598,7 +615,10 @@ const tropical_animals = [
     "Sloth Bear",
     "Wild Boar",
     "Takin",
-    "Sussex Chicken"    
+    "Sussex Chicken",
+    "Spectacled Bear",
+    "Coquerel's Sifaka",
+    "African Leopard"    
 ];
 
 //Array for Tundra animals
@@ -617,7 +637,10 @@ const tundra_animals = [
     "Red-Crowned Crane",
     "Red Fox",
     "Wolverine",
-    "Highland Cattle"
+    "Highland Cattle",
+    "Pallas Cat",
+    "Markhor",
+    "Spectacled Bear"
 ];
 
 // Array for all animals
