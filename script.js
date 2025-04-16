@@ -172,7 +172,11 @@ const na_animals = [
     "Nine-Banded Armadillo",
     "Collared Peccary",
     "Wolverine",
-    "American Standard Donkey"
+    "American Standard Donkey",
+    "Coyote",
+    "Ocelot",
+    "American Flamingo",
+    "Bighorn Sheep"
 ];
 
 // Array for South American animals
@@ -193,7 +197,12 @@ const sa_animals = [
     "Maned Wolf",
     "Collared Peccary",
     "Alpaca",
-    "Spectacled Bear"
+    "Spectacled Bear",
+    "Ocelot",
+    "Greater Rhea",
+    "Bush Dog",
+    "American Flamingo",
+    "White-Faced Saki"
 ];
 
 //Array for Central American animals
@@ -203,7 +212,10 @@ const ca_animals = [
     "Cougar",
     "Raccoon",
     "Nine-Banded Armadillo",
-    "Collared Peccary"
+    "Collared Peccary",
+    "Coyote",
+    "Ocelot",
+    "American Flamingo"
 ];
 
 // Array for Oceania animals
@@ -303,7 +315,9 @@ const aquatic_animals = [
     "Asian Water Monitor",
     "Red River Hog",
     "Little Penguin",
-    "Mute Swan"
+    "Mute Swan",
+    "Bush Dog",
+    "American Flamingo"
 ];
 
 //Array for Desert animals
@@ -340,7 +354,9 @@ const desert_animals = [
     "Saiga",
     "Alpine Goat",
     "American Standard Donkey",
-    "Hamadryas Baboon"
+    "Hamadryas Baboon",
+    "Coyote",
+    "Bighorn Sheep"
 ];
 
 //Array for Grassland animals
@@ -434,7 +450,12 @@ const grassland_animals = [
     "Spectacled Bear",
     "African Spurred Tortoise",
     "Kirk's Dik-Dik",
-    "African Leopard"    
+    "African Leopard",
+    "Coyote",
+    "Greater Rhea",
+    "Bush Dog",
+    "American Flamingo",
+    "Bighorn Sheep"    
 ];
 
 //Array for Taiga animals
@@ -478,7 +499,9 @@ const taiga_animals = [
     "Hill Radnor Sheep",
     "Tamworth Pig",
     "Pallas Cat",
-    "Markhor"
+    "Markhor",
+    "Coyote",
+    "Bighorn Sheep"
 ];
 
 //Array for Temperate animals
@@ -547,7 +570,11 @@ const temperate_animals = [
     "American Standard Donkey",
     "Hill Radnor Sheep",
     "Tamworth Pig",
-    "Pallas Cat"
+    "Pallas Cat",
+    "Coyote",
+    "Ocelot",
+    "Greater Rhea",
+    "American Flamingo"
 ];
 
 //Array for Tropical Animals
@@ -618,7 +645,12 @@ const tropical_animals = [
     "Sussex Chicken",
     "Spectacled Bear",
     "Coquerel's Sifaka",
-    "African Leopard"    
+    "African Leopard",
+    "Coyote",
+    "Ocelot",
+    "Bush Dog",
+    "American Flamingo",
+    "White-Faced Saki"    
 ];
 
 //Array for Tundra animals
