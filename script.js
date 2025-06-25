@@ -62,7 +62,8 @@ const african_animals = [
     "African Spurred Tortoise",
     "Kirk's Dik-Dik",
     "Coquerel's Sifaka",
-    "African Leopard"
+    "African Leopard",
+    "Honey Badger"
 ];
 
 // Array for Asian animals
@@ -118,7 +119,14 @@ const asian_animals = [
     "Mute Swan",
     "Takin",
     "Pallas Cat",
-    "Markhor"
+    "Markhor",
+    "Honey Badger",
+    "Japanese Raccoon Dog",
+    "Nilgai",
+    "Bornean Elephant",
+    "Blackbuck",
+    "Lion-Tailed Macaque",
+    "Père David's Deer"
 ];
 
 // Array for European animals
@@ -283,7 +291,8 @@ const exhibit_animals = [
     "Brown-Throated Sloth",
     "Desert Horned Viper",
     "Spectacled Flying Fox",
-    "Hermann's Tortoise"
+    "Hermann's Tortoise",
+    "Malabar Rose"
 ];
 
 //Array for Aquatic animals
@@ -317,7 +326,9 @@ const aquatic_animals = [
     "Little Penguin",
     "Mute Swan",
     "Bush Dog",
-    "American Flamingo"
+    "American Flamingo",
+    "Bornean Elephant",
+    "Père David's Deer"
 ];
 
 //Array for Desert animals
@@ -356,7 +367,8 @@ const desert_animals = [
     "American Standard Donkey",
     "Hamadryas Baboon",
     "Coyote",
-    "Bighorn Sheep"
+    "Bighorn Sheep",
+    "Honey Badger"
 ];
 
 //Array for Grassland animals
@@ -455,7 +467,11 @@ const grassland_animals = [
     "Greater Rhea",
     "Bush Dog",
     "American Flamingo",
-    "Bighorn Sheep"    
+    "Bighorn Sheep",
+    "Honey Badger",
+    "Nilgai",
+    "Bornean Elephant",
+    "Blackbuck"    
 ];
 
 //Array for Taiga animals
@@ -574,7 +590,9 @@ const temperate_animals = [
     "Coyote",
     "Ocelot",
     "Greater Rhea",
-    "American Flamingo"
+    "American Flamingo",
+    "Japanese Raccoon Dog",
+    "Père David's Deer"
 ];
 
 //Array for Tropical Animals
@@ -650,7 +668,12 @@ const tropical_animals = [
     "Ocelot",
     "Bush Dog",
     "American Flamingo",
-    "White-Faced Saki"    
+    "White-Faced Saki",
+    "Honey Badger",
+    "Nilgai",
+    "Bornean Elephant",
+    "Blackbuck",
+    "Lion-Tailed Macaque"    
 ];
 
 //Array for Tundra animals
